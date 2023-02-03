@@ -37,7 +37,7 @@ public class Hello {
 
         while (age > 0){
             System.out.printf("%d\n", age);
-            age--;
+            age -= 1;
         }
 
 
